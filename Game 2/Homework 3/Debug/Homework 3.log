@@ -1,0 +1,5 @@
+﻿  IqbalKarim(HW3).cpp
+c:\users\iqbal karim\desktop\164 midterm iqbal karim\vs 2017\homework 3\homework 3\iqbalkarim(hw3).cpp(329): warning C4101: 'localY': unreferenced local variable
+c:\users\iqbal karim\desktop\164 midterm iqbal karim\vs 2017\homework 3\homework 3\iqbalkarim(hw3).cpp(329): warning C4101: 'localX': unreferenced local variable
+c:\users\iqbal karim\desktop\164 midterm iqbal karim\vs 2017\homework 3\homework 3\iqbalkarim(hw3).cpp(593): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Homework 3.vcxproj -> C:\Users\Iqbal Karim\Desktop\164 MIdterm Iqbal Karim\VS 2017\Homework 3\Debug\Homework 3.exe
